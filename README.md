@@ -22,17 +22,16 @@
 </p>
 <details>
   <summary>Click to expand!</summary>
-  
-  This is the content that will be hidden initially but visible when the dropdown is expanded.
+  <picture>
+    <source
+      srcset="https://github-readme-stats-seven-orpin-48.vercel.app/api?username=usmanfaki&show_icons=true&theme=dark"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats-seven-orpin-48.vercel.app/api?username=usmanfaki&show_icons=true"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats-seven-orpin-48.vercel.app/api?username=usmanfaki&show_icons=true" />
+    </picture>  
 </details>
-<picture>
-  <source
-    srcset="https://github-readme-stats-seven-orpin-48.vercel.app/api?username=usmanfaki&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats-seven-orpin-48.vercel.app/api?username=usmanfaki&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats-seven-orpin-48.vercel.app/api?username=usmanfaki&show_icons=true" />
-</picture>
+
