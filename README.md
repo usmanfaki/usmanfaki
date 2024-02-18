@@ -21,7 +21,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"  alt="mysql"  width="45" height="45"/>
 </p>
 <details>
-  <summary><h2>✨Github Stats!</h2></summary>
+  <summary><h4>✨Github Stats!</h4></summary>
   <picture>
     <source
       srcset="https://github-readme-stats-seven-orpin-48.vercel.app/api?username=usmanfaki&show_icons=true&theme=dark"
@@ -34,9 +34,8 @@
     <img src="https://github-readme-stats-seven-orpin-48.vercel.app/api?username=usmanfaki&show_icons=true" />
     </picture>  
 </details>
-
 <details>
-  <summary><h2>✨Github Stats!</h2></summary>
+  <summary><h4>✨ Most Use Languages.</h4></summary>
   <picture>
     <source
       srcset="https://github-readme-stats-seven-orpin-48.vercel.app/api/top-langs/?username=usmanfaki&show_icons=true&theme=dark"
