@@ -1,9 +1,10 @@
 ### Hi there 👋
 
-####I'm Usman Faki, a passionate software developer and tech enthusiast based in Nigeria. With a solid foundation in computer science principles and a keen interest
+### I'm Usman Faki, a passionate software developer and tech enthusiast based in Nigeria. With a solid foundation in computer science principles and a keen interest in solving problems.
 
 <!--
 **usmanfaki/usmanfaki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+!-->
 
 <h2> 🚀 &nbsp; Skills And Tools I Have Use</h2>
 <p align="left">
