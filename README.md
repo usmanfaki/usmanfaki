@@ -20,3 +20,4 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" alt="mongodb"  width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"  alt="mysql"  width="45" height="45"/>
 </p>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=usmanfaki)](https://github.com/anuraghazra/github-readme-stats)
