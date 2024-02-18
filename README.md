@@ -21,7 +21,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"  alt="mysql"  width="45" height="45"/>
 </p>
 <details>
-  <summary>Click to expand!</summary>
+  <summary>✨Github Stats!</summary>
   <picture>
     <source
       srcset="https://github-readme-stats-seven-orpin-48.vercel.app/api?username=usmanfaki&show_icons=true&theme=dark"
